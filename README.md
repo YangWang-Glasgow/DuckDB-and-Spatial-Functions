@@ -36,7 +36,7 @@
 
 ---
 
-## 2. The Modern Geospatial Data Stack (Late 2024)
+## 2. The Modern Geospatial Data Stack (mid 2025)
 
 DuckDB primarily operates in the **OLAP** layer of the modern geospatial data stack and integrates tightly with Python and modern analytical formats.
 
